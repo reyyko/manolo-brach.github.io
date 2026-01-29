@@ -1,0 +1,16 @@
+﻿<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mitGradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f2d7d5"/>
+      <stop offset="100%" stop-color="#a31f34"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#mitGradient)"/>
+  <rect x="80" y="180" width="440" height="140" fill="rgba(255,255,255,0.85)" rx="12"/>
+  <rect x="120" y="220" width="60" height="60" fill="#a31f34"/>
+  <rect x="210" y="200" width="60" height="80" fill="#7a1a24"/>
+  <rect x="300" y="210" width="60" height="70" fill="#c83f54"/>
+  <rect x="390" y="230" width="60" height="50" fill="#861e2d"/>
+  <text x="300" y="150" text-anchor="middle" font-size="84" font-family="'Sora', sans-serif" fill="#ffffff" font-weight="700">MIT</text>
+  <text x="300" y="330" text-anchor="middle" font-size="26" font-family="'Sora', sans-serif" fill="#7a1a24">Massachusetts Institute of Technology</text>
+</svg>
